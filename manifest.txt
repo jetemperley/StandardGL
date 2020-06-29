@@ -1,0 +1,6 @@
+Specification-Title: jogl standard lib
+Specification-Vendor: me
+Specification-Version: 0.1
+Implementation-Title: implements graphics 
+Implementation-Vendor: you
+Implementation-Version: 0.1
